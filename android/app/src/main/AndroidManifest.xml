@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.aaddev.my_loc">
+    package="com.trackingapp123.feng">
 
     <!-- added these permissions -->
         <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
@@ -15,7 +15,7 @@
 
         <!-- added api key -->
             <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="YOUR KEY"/>
+               android:value="AIzaSyAkYqYEiK4oeMKpWb5YMCuhsDkgv4gZfhY"/>
 
 
         <activity
